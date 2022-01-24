@@ -1,0 +1,11 @@
+C:\Users\Hiren\Documents\Files\ASP.NET\WorkingOn\HVQuiz\BAL\bin\Release\BAL.dll
+C:\Users\Hiren\Documents\Files\ASP.NET\WorkingOn\HVQuiz\BAL\bin\Release\BAL.pdb
+C:\Users\Hiren\Documents\Files\ASP.NET\WorkingOn\HVQuiz\BAL\bin\Release\DAL.dll
+C:\Users\Hiren\Documents\Files\ASP.NET\WorkingOn\HVQuiz\BAL\bin\Release\ENT.dll
+C:\Users\Hiren\Documents\Files\ASP.NET\WorkingOn\HVQuiz\BAL\bin\Release\DAL.pdb
+C:\Users\Hiren\Documents\Files\ASP.NET\WorkingOn\HVQuiz\BAL\bin\Release\ENT.pdb
+C:\Users\Hiren\Documents\Files\ASP.NET\WorkingOn\HVQuiz\BAL\obj\Release\BAL.csprojAssemblyReference.cache
+C:\Users\Hiren\Documents\Files\ASP.NET\WorkingOn\HVQuiz\BAL\obj\Release\BAL.csproj.CoreCompileInputs.cache
+C:\Users\Hiren\Documents\Files\ASP.NET\WorkingOn\HVQuiz\BAL\obj\Release\BAL.csproj.CopyComplete
+C:\Users\Hiren\Documents\Files\ASP.NET\WorkingOn\HVQuiz\BAL\obj\Release\BAL.dll
+C:\Users\Hiren\Documents\Files\ASP.NET\WorkingOn\HVQuiz\BAL\obj\Release\BAL.pdb

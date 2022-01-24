@@ -1,0 +1,9 @@
+C:\Users\Hiren\Documents\Files\ASP.NET\WorkingOn\HVQuiz\DAL\bin\Release\DAL.dll
+C:\Users\Hiren\Documents\Files\ASP.NET\WorkingOn\HVQuiz\DAL\bin\Release\DAL.pdb
+C:\Users\Hiren\Documents\Files\ASP.NET\WorkingOn\HVQuiz\DAL\bin\Release\ENT.dll
+C:\Users\Hiren\Documents\Files\ASP.NET\WorkingOn\HVQuiz\DAL\bin\Release\ENT.pdb
+C:\Users\Hiren\Documents\Files\ASP.NET\WorkingOn\HVQuiz\DAL\obj\Release\DAL.csprojAssemblyReference.cache
+C:\Users\Hiren\Documents\Files\ASP.NET\WorkingOn\HVQuiz\DAL\obj\Release\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Hiren\Documents\Files\ASP.NET\WorkingOn\HVQuiz\DAL\obj\Release\DAL.csproj.CopyComplete
+C:\Users\Hiren\Documents\Files\ASP.NET\WorkingOn\HVQuiz\DAL\obj\Release\DAL.dll
+C:\Users\Hiren\Documents\Files\ASP.NET\WorkingOn\HVQuiz\DAL\obj\Release\DAL.pdb

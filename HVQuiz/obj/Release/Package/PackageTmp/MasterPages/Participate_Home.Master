@@ -1,0 +1,105 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Participate_Home.master.cs" Inherits="HVQuiz.MasterPages.Participate_Home" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+  <meta charset="utf-8">
+  <title>Dashboard | VS Quiz </title>
+  <meta content="width=device-width, initial-scale=1.0" name="viewport">
+  <meta content="" name="keywords">
+  <meta content="" name="description">
+
+  <!-- Favicons -->
+  <link href="../img/logo.png" rel="icon">
+  <link href="../img/logo.png" rel="apple-touch-icon">
+
+  <!-- Google Fonts -->
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,700,700i|Raleway:300,400,500,700,800|Montserrat:300,400,700" rel="stylesheet">
+
+  <!-- Bootstrap CSS File -->
+  <link href="../assets/HomeProperty/lib/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+  <!-- Libraries CSS Files -->
+
+  <link href="../assets/HomeProperty/lib/animate/animate.min.css" rel="stylesheet">
+  <link href="../assets/HomeProperty/lib/ionicons/css/ionicons.min.css" rel="stylesheet">
+  <link href="../assets/HomeProperty/lib/owlcarousel/assets/owl.carousel.min.css" rel="stylesheet">
+  <link href="../assets/HomeProperty/lib/magnific-popup/magnific-popup.css" rel="stylesheet">
+  <link href="../assets/HomeProperty/lib/ionicons/css/ionicons.min.css" rel="stylesheet">
+
+  <!-- Main Stylesheet File -->
+  <link href="../assets/HomeProperty/css/style.css" rel="stylesheet">
+
+  <link rel="stylesheet" type="text/css" href="../assets/HomeProperty/fontawesome/css/all.css">
+
+  <link href="../assets/HomeProperty/lib/font-awesome/css/font-awesome.min.css" rel="stylesheet">
+      <link href="../assets/HomeProperty/css/style.css" rel="stylesheet">
+
+</head>
+<body>
+<form id="form1" runat="server">
+        <section id="topbar" class="d-none d-lg-block">
+            <div class="container clearfix">
+              <div class="contact-info float-left" style="padding-right:150px">
+                <i class="fa fa-envelope-o"></i> <a href="mailto:vhiren225225@gmail.com">vhiren225225@gmail.com</a>
+                <i class="fa fa-phone"></i> 7623043121
+              </div>
+                 <div class="contact-info float-md-left">
+                <asp:ContentPlaceHolder ID="cpTime" runat="server">
+                </asp:ContentPlaceHolder>
+            </div>
+                <div class="social-links float-right">
+                <a href="https://www.instagram.com/hiren_vadagama225/" class="instagram"><i class="fa fa-instagram"></i></a>
+                <a href="mailto:vhiren225225@gmail.com" class="google-plus"><i class="fa fa-google-plus"></i></a>
+                <a href="https://www.linkedin.com/in/hiren-vadagama-72b3791a4/" class="linkedin"><i class="fa fa-linkedin"></i></a>
+              </div>
+            </div>
+          </section>
+
+          <!--==========================
+            Header
+          ============================-->
+          <header id="header">
+            <div class="container">
+
+              <div id="logo" class="pull-left">
+                <h1><a class="scrollto">
+                <img src="../../assets/images/logo.png" style="width: 45px;height: 45px">Q<span>uiz</span></a></h1>
+                <!-- Uncomment below if you prefer to use an image logo -->
+                <!-- <a href="#body"><img src="img/logo.png" alt="" title="" /></a>-->
+              </div>
+                
+           <asp:ContentPlaceHolder ID="ContentPlaceHolderNavbar" runat="server">
+    </asp:ContentPlaceHolder>
+              
+            </div>
+          </header><!-- #header -->
+
+           <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+    </asp:ContentPlaceHolder>
+
+
+
+        
+  <a href="#" class="back-to-top"><i class="fa fa-chevron-up"></i></a>
+  <!-- JavaScript Libraries -->
+  <script src="../assets/HomeProperty/lib/jquery/jquery.min.js"></script>
+  <script src="../assets/HomeProperty/lib/jquery/jquery-migrate.min.js"></script>
+  <script src="../assets/HomeProperty/lib/bootstrap/js/bootstrap.bundle.min.js"></script>
+  <script src="../assets/HomeProperty/lib/easing/easing.min.js"></script>
+  <script src="../assets/HomeProperty/lib/superfish/hoverIntent.js"></script>
+  <script src="../assets/HomeProperty/lib/superfish/superfish.min.js"></script>
+  <script src="../assets/HomeProperty/lib/wow/wow.min.js"></script>
+  <script src="../assets/HomeProperty/lib/owlcarousel/owl.carousel.min.js"></script>
+  <script src="../assets/HomeProperty/lib/magnific-popup/magnific-popup.min.js"></script>
+  <script src="../assets/HomeProperty/lib/sticky/sticky.js"></script>
+
+  <!-- Contact Form JavaScript File -->
+  <script src="../assets/HomeProperty/contactform/contactform.js"></script>
+
+  <!-- Template Main Javascript File -->
+  <script src="../assets/HomeProperty/js/main.js"></script>
+</form>
+</body>
+</html>

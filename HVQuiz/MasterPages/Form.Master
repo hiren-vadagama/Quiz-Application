@@ -1,0 +1,31 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Form.master.cs" Inherits="HVQuiz.MasterPages.Form" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no"/>
+    <title></title>
+    <link href="../assets/images/logo.png" rel="icon"/>
+    <link rel="shortcut icon" href="../assets/images/fav.jpg"/>
+    <link rel="stylesheet" href="../assets/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="../assets/css/fontawsom-all.min.css"/>
+    <link rel="stylesheet" type="text/css" href="../assets/css/style.css" />
+    <script type="text/javascript" src=".../assets/js/JScript.js" ></script>
+
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div>
+            <asp:ContentPlaceHolder ID="MainContain" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+    </form>
+</body>
+<script src="../assets/js/jquery-3.2.1.min.js"></script>
+<script src="../assets/js/popper.min.js"></script>
+<script src="../assets/js/bootstrap.min.js"></script>
+<script src="../assets/js/script.js"></script>
+</html>
+

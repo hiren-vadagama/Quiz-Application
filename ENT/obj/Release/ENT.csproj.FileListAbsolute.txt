@@ -1,0 +1,6 @@
+C:\Users\Hiren\Documents\Files\ASP.NET\WorkingOn\HVQuiz\ENT\bin\Release\ENT.dll
+C:\Users\Hiren\Documents\Files\ASP.NET\WorkingOn\HVQuiz\ENT\bin\Release\ENT.pdb
+C:\Users\Hiren\Documents\Files\ASP.NET\WorkingOn\HVQuiz\ENT\obj\Release\ENT.csprojAssemblyReference.cache
+C:\Users\Hiren\Documents\Files\ASP.NET\WorkingOn\HVQuiz\ENT\obj\Release\ENT.csproj.CoreCompileInputs.cache
+C:\Users\Hiren\Documents\Files\ASP.NET\WorkingOn\HVQuiz\ENT\obj\Release\ENT.dll
+C:\Users\Hiren\Documents\Files\ASP.NET\WorkingOn\HVQuiz\ENT\obj\Release\ENT.pdb
